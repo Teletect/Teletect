@@ -3,9 +3,6 @@ Typically the designs are formatted for the Eurorack modular standard, mostly ad
 
 If you find any errors on any of the projects, please let me know!
 
-If you appreciate what I do you can donate: 
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=KJDXDM9NJ4GWQ)
 
 <!--
 **Teletect/Teletect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
